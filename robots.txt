@@ -1,1 +1,1 @@
-Sitemap: https://tylerkirby.github.io/blog/sitemap.xml
+Sitemap: https://jtylerkirby.com/blog/sitemap.xml
